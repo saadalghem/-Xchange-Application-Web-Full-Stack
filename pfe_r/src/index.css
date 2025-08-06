@@ -1,0 +1,23 @@
+@import "tailwindcss";
+.link-white{
+    color: white;
+}
+.link-black{
+    color: black;
+    text-decoration: none;
+}
+.link-red{
+    color: red;
+    text-decoration: none;
+}
+.link-blue{
+    color: rgb(105, 164, 232);
+    text-decoration: none;
+}
+.card{
+    width: 18rem;
+    display: flex;
+}
+.notee{
+    color: white;
+}
